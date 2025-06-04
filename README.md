@@ -4,7 +4,7 @@
 
 Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e Desenvolvimento de Sistemas. Tenho paixão por desenvolvimento de software e já atuei com diversas tecnologias em projetos profissionais e pessoais. Compartilho meu conhecimento com a comunidade sempre que possível e estou sempre em busca de aprendizado contínuo.
 
-<p align="left"> 
+<p align="left">
     <a href="#">
         <img 
             alt="youtube subscribers" 
@@ -155,7 +155,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
@@ -163,7 +163,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     align="left" 
     alt="MySQL" 
     title="MySQL" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -171,7 +171,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     align="left" 
     alt="NestJS" 
     title="NestJS" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"
 />
@@ -179,7 +179,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     align="left" 
     alt="MongoDB" 
     title="MongoDB" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
