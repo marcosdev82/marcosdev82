@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcos Tvares
+# 👨‍💻 Marcos Tvares
 
 **`Desenvolvedora FullStack`**
 
