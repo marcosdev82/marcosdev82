@@ -35,13 +35,13 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     </a>
 </p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
 Aqui está a organização das tecnologias por categorias, mantendo o estilo dos ícones:
 
----
+
 
 ### 💻 **Linguagens de Programação**
 
@@ -53,7 +53,7 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <br><br><br>
 
----
+
 
 ### ⚙️ **Frameworks e Bibliotecas**
 
@@ -66,7 +66,7 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <br><br><br>
 
----
+
 
 ### 🎨 **Estilização**
 
@@ -76,7 +76,7 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <br><br><br>
 
----
+
 
 ### 🗄️ **Banco de Dados**
 
@@ -87,7 +87,7 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <br><br><br>
 
----
+
 
 ### 🧰 **Ferramentas e Plataformas**
 
@@ -97,7 +97,7 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <br><br><br>
 
----
+
 
 ### ✅ **Testes**
 
