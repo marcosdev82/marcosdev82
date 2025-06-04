@@ -179,9 +179,9 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     align="left" 
     alt="MongoDB" 
     title="MongoDB" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />
 <br><br>
 <img 
