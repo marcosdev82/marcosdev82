@@ -153,14 +153,15 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Postgres" 
+    title="Postgres"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/> 
 
 <br/>
 <br/>
