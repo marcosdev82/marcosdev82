@@ -37,12 +37,6 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 
 
 
-### 🤖 Linguagens e Tecnologias
-
-Aqui está a organização das tecnologias por categorias, mantendo o estilo dos ícones:
-
-
-
 ### 💻 **Linguagens de Programação**
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -108,11 +102,6 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
           
-
-<br><br>
-
-Se quiser, posso também gerar a versão HTML ou Markdown organizada por categoria com os ícones para uso direto. É só pedir! Quer a [versão em Markdown](f) ou [versão em HTML](f)?
-
 <br /><br /><br />
 
 ### 📊 Estatísticas
