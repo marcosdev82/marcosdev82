@@ -36,7 +36,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 </p>
 
 
-### 💻 **Linguagens de Programação**
+### **Linguagens de Programação**
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -47,7 +47,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <br><br>
 
 
-### ⚙️ **Frameworks e Bibliotecas**
+### **Frameworks e Bibliotecas**
 
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px; background-color: white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -59,7 +59,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <br><br>
 
 
-### 🎨 **Estilização**
+### **Estilização**
 
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -68,7 +68,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <br><br>
 
 
-### 🗄️ **Banco de Dados**
+### **Banco de Dados**
 
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -78,7 +78,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <br><br>
 
 
-### 🧰 **Ferramentas e Plataformas**
+### **Ferramentas e Plataformas**
 
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -89,7 +89,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <br><br>
 
 
-### ✅ **Testes**
+### **Testes**
 
 <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 
@@ -99,7 +99,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 
 <br /><br />
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
