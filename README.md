@@ -44,8 +44,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
-<br><br><br>
-
+<br><br>
 
 
 ### ⚙️ **Frameworks e Bibliotecas**
@@ -57,8 +56,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <img align="left" alt="NestJS" title="NestJS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 
-<br><br><br>
-
+<br><br>
 
 
 ### 🎨 **Estilização**
@@ -67,8 +65,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 
-<br><br><br>
-
+<br><br>
 
 
 ### 🗄️ **Banco de Dados**
@@ -78,7 +75,7 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <img align="left" alt="MongoDB" title="MongoDB" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Redis" title="Redis" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 
-<br><br><br>
+<br><br>
 
 
 ### 🧰 **Ferramentas e Plataformas**
@@ -87,10 +84,9 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Docker" title="Docker" width="44px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
 
-<br><br><br>
 
+<br><br>
 
 
 ### ✅ **Testes**
