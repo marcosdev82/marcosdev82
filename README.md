@@ -169,6 +169,14 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
 />
 <img 
     align="left" 
+    alt="NestJS" 
+    title="NestJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="MongoDB" 
     title="MongoDB" 
     width="30px" 
@@ -208,6 +216,15 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="nestjs" 
+    title="Redis" 
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 
 <br /><br /><br />
 
