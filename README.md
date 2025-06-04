@@ -4,7 +4,7 @@
 
 Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e Desenvolvimento de Sistemas. Tenho paixão por desenvolvimento de software e já atuei com diversas tecnologias em projetos profissionais e pessoais. Compartilho meu conhecimento com a comunidade sempre que possível e estou sempre em busca de aprendizado contínuo.
 
-<p align="left">
+<p align="left"> 
     <a href="#">
         <img 
             alt="youtube subscribers" 
