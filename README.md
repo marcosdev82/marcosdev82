@@ -103,6 +103,10 @@ Aqui está a organização das tecnologias por categorias, mantendo o estilo dos
 
 <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 
+
+<img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+          
+
 <br><br>
 
 Se quiser, posso também gerar a versão HTML ou Markdown organizada por categoria com os ícones para uso direto. É só pedir! Quer a [versão em Markdown](f) ou [versão em HTML](f)?
