@@ -217,14 +217,14 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="nestjs" 
-    title="Redis" 
+    title="nestjs" 
     width="30px" 
     style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" 
+/>
 
 <br /><br /><br />
 
