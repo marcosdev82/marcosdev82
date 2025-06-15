@@ -116,3 +116,4 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdev82&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+ 
