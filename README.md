@@ -1,11 +1,10 @@
 
 
-<h2># 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!</h2>
 
 <img src="https://geekwork.com.br/marcos/perfil-github-2.webp" />
 
 **`Desenvolvedor FullStack`**
-
+<h2># 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!</h2>
 Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e Desenvolvimento de Sistemas. Tenho paixão por desenvolvimento de software e já atuei com diversas tecnologias em projetos profissionais e pessoais. Compartilho meu conhecimento com a comunidade sempre que possível e estou sempre em busca de aprendizado contínuo.
 
 <p align="left">
