@@ -37,6 +37,12 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
     </a>
 </p>
 
+## 💻 Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,php,laravel,mysql,postgres,mongodb,redis,docker,git,linux,wordpress,tailwind,bootstrap,sass,jest,cypress" />
+</p>
+
 ## 📊 Estatísticas
 
 <p align="center">
