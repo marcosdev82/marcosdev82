@@ -1,4 +1,4 @@
-<img src="https://github.com/marcosdev82/marcosdev82/blob/main/perfil-github.png" />
+<img src="https://github.com/marcosdev82/marcosdev82/blob/main/perfil-github-2.png" />
 
 # 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!
 
