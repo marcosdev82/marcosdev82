@@ -2,7 +2,7 @@
 
 <h2># 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!</h2>
 
-<img src="https://github.com/marcosdev82/marcosdev82/blob/main/perfil-github-2.png" />
+<img src="https://geekwork.com.br/marcos/perfil-github-2.png" />
 
 **`Desenvolvedor FullStack`**
 
