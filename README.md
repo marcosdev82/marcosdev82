@@ -1,6 +1,8 @@
-<img src="https://github.com/marcosdev82/marcosdev82/blob/main/perfil-github-2.png" />
 
-# 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!
+
+<h2># 👋 Olá, eu sou Marcos Tavares, um apaixonado Engenheiro Full Stack!</h2>
+
+<img src="https://github.com/marcosdev82/marcosdev82/blob/main/perfil-github-2.png" />
 
 **`Desenvolvedor FullStack`**
 
@@ -35,24 +37,4 @@ Me chamo Marcos Tavares, natural de Porto Alegre / RS. Sou formado em Análise e
             src="https://custom-icon-badges.demolab.com/github/followers/marcosdev82?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
-
-## 💻 Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,php,laravel,mysql,postgres,mongodb,redis,docker,git,linux,wordpress,tailwind,bootstrap,sass,jest,cypress" />
-</p>
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=marcosdev82&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdev82&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br"
-  />
 </p>
